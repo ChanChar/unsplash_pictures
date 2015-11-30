@@ -1,2 +1,4 @@
-lxml==3.4.2
-requests==2.6.0
+beautifulsoup4==4.4.1
+requests==2.8.1
+termcolor==1.1.0
+wheel==0.24.0
